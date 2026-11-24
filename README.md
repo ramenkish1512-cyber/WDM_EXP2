@@ -1,4 +1,4 @@
-<img width="517" height="387" alt="Screenshot 2026-11-24 141307" src="https://github.com/user-attachments/assets/75a681c9-398d-4347-b414-d5959b610ec1" />
+
 ### EX2 Generating Association Rules for Employee dataset using Apriori Algorithm
 ### DATE: 24/11/26
 ### AIM: To generate associate rules for the employee dataset using Apriori Algorithm.
